@@ -1,0 +1,33 @@
+{
+    "name": "FPLDEMOBOT",
+    "description": "Azure FPL Hosting test",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Microsoft",
+    "engines": {
+        "node": "8.9.0"
+    },
+    "scripts": {
+        "start": "node app2.js"
+    },
+    "dependencies": {
+        "botbuilder": "",
+        "cheerio": "",
+        "csvtojson": "^1.1.9",
+        "dateformat": "",
+        "dns-lookup": "^0.1.0",
+        "excel": "^0.1.7",
+        "fs": "",
+        "moment-timezone": "",
+        "mongodb": "2.2.31",
+        "net": "1.0.2",
+        "node-emoji": "",
+        "nodemailer": "*",
+        "random-number-between": "",
+        "request": "",
+        "restify": "",
+        "textract": "^2.2.0",
+        "util": ""
+    }
+}
